@@ -28,3 +28,4 @@ print(f"Name: {config['name']['#text']}")
 print(f"Description: {config['description']}")
 print(f"IP: {config['ipv4']['address']['ip']}")
 print(f"Netmask: {config['ipv4']['address']['netmask']}")
+ 
